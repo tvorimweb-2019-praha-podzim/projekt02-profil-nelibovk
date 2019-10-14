@@ -58,6 +58,7 @@ a {
 .profil {
     background-color: #31363b;
     width: 250px;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.507);
 }
 
 .logo {
@@ -67,6 +68,7 @@ a {
     position: absolute;
     left: 200px;
     top: 150px;
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.507);
 }
 
 .obsah {
@@ -85,7 +87,6 @@ a {
 .facebook {
     width: 125px;
     padding: 10px;
-    margin: auto;
     border-top: 1px solid #3f464d;
     border-right: 1px solid #3f464d;
     text-align: center;
@@ -94,7 +95,6 @@ a {
 .twitter {
     width: 125px;
     padding: 10px;
-    margin: auto;
     border-top: 1px solid #3f464d;
     text-align: center;
 }
